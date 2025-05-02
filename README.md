@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leo :) 
-- 👀 I’m interested in structural biology
-- 🌱 I’m currently learning cryo-electron microscopy and focused-ion beam milling
-- 📫 How to reach me - l.k.kresik@tudelft.nl
+- 👀 Structural biologist
+- 🌱 Cryo-ET and FIB
+- 📫 l.k.kresik@tudelft.nl
 
 
 <!---
