@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo :) 
 - 👀 Structural biologist
-- 🌱 Cryo-ET and FIB
+- 🔬 Cryo-ET and FIB
 - 📫 l.k.kresik@tudelft.nl
 
 
